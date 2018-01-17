@@ -1,0 +1,8 @@
+C:\xampp\htdocs\ejercicio1\Proyecto1_Juan\Proyecto1_Juan\bin\Debug\Proyecto1_Juan.exe
+C:\xampp\htdocs\ejercicio1\Proyecto1_Juan\Proyecto1_Juan\bin\Debug\Proyecto1_Juan.pdb
+C:\xampp\htdocs\ejercicio1\Proyecto1_Juan\Proyecto1_Juan\bin\Debug\Proyecto1_Juan.xml
+C:\xampp\htdocs\ejercicio1\Proyecto1_Juan\Proyecto1_Juan\obj\x86\Debug\Proyecto1_Juan.Resources.resources
+C:\xampp\htdocs\ejercicio1\Proyecto1_Juan\Proyecto1_Juan\obj\x86\Debug\Proyecto1_Juan.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\ejercicio1\Proyecto1_Juan\Proyecto1_Juan\obj\x86\Debug\Proyecto1_Juan.exe
+C:\xampp\htdocs\ejercicio1\Proyecto1_Juan\Proyecto1_Juan\obj\x86\Debug\Proyecto1_Juan.xml
+C:\xampp\htdocs\ejercicio1\Proyecto1_Juan\Proyecto1_Juan\obj\x86\Debug\Proyecto1_Juan.pdb
